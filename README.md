@@ -1,5 +1,9 @@
 # Micro-mods for Kerbal Space Program (KSP)
 
+A collection of ModuleManager-only patches I wrote for KSP.
+Like those in [the forum thread](https://forum.kerbalspaceprogram.com/index.php?/topic/139980-130-community-database-of-module-manager-patches-for-stock-ksp/),
+but I can't stand working without revision control.
+
 You can just copy these directories or the raw .cfg files into your `GameData`
 directory to use them.
 
