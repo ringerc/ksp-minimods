@@ -1,0 +1,12 @@
+// Configure RCS to Translate Only by Default
+// Author: Snark
+// https://github.com/KSPSnark/SnarkTweaks/blob/master/stock/NoRCSRotation.cfg
+@PART[*]:HAS[@MODULE[ModuleRCSFX]]
+{
+	@MODULE[ModuleRCSFX]
+	{
+		%enableYaw = false
+		%enablePitch = false
+		%enableRoll = false
+	}
+}
