@@ -1,0 +1,146 @@
+{
+	"kind": "metapackage",
+	"abstract": "A list of modules installed on the KSP_linux KSP instance",
+	"name": "installed-KSP_linux",
+	"license": "unknown",
+	"version": "2019.02.03.05.01.53",
+	"identifier": "installed-KSP_linux",
+	"spec_version": "v1.6",
+	"recommends": [
+		{
+			"name": "KAS"
+		},
+		{
+			"name": "KerbalEngineerRedux"
+		},
+		{
+			"name": "KerbalImprovedSaveSystem"
+		},
+		{
+			"name": "KIS"
+		},
+		{
+			"name": "NavballDockAlignIndCE"
+		},
+		{
+			"name": "EasyVesselSwitch"
+		},
+		{
+			"name": "CommunityCategoryKit"
+		},
+		{
+			"name": "ModuleManager"
+		},
+		{
+			"name": "ClickThroughBlocker"
+		},
+		{
+			"name": "CommunityTechTree"
+		},
+		{
+			"name": "ContractConfigurator-CleverSats"
+		},
+		{
+			"name": "ContractConfigurator-FieldResearch"
+		},
+		{
+			"name": "ContractConfigurator-KerbalAcademy"
+		},
+		{
+			"name": "ContractConfigurator-KerbinSpaceStation"
+		},
+		{
+			"name": "ContractConfigurator-Tourism"
+		},
+		{
+			"name": "HideEmptyTechNodes"
+		},
+		{
+			"name": "TerrasIgnotas"
+		},
+		{
+			"name": "WaypointManager"
+		},
+		{
+			"name": "ContractConfigurator"
+		},
+		{
+			"name": "Kopernicus"
+		},
+		{
+			"name": "ModularFlightIntegrator"
+		},
+		{
+			"name": "FerramAerospaceResearchContinued"
+		},
+		{
+			"name": "Kerbalism"
+		},
+		{
+			"name": "DeepFreeze"
+		},
+		{
+			"name": "CommunityResourcePack"
+		},
+		{
+			"name": "REPOSoftTech-Agencies"
+		},
+		{
+			"name": "AviationLights"
+		},
+		{
+			"name": "AirplanePlus"
+		},
+		{
+			"name": "BetterTimeWarpCont"
+		},
+		{
+			"name": "BOMPs"
+		},
+		{
+			"name": "CrewQueueTwo"
+		},
+		{
+			"name": "CustomBarnKit"
+		},
+		{
+			"name": "RadarAltitude"
+		},
+		{
+			"name": "RealChute"
+		},
+		{
+			"name": "ToolbarController"
+		},
+		{
+			"name": "StationPartsExpansion"
+		},
+		{
+			"name": "FirespitterCore"
+		},
+		{
+			"name": "FirespitterResourcesConfig"
+		},
+		{
+			"name": "NearFutureProps"
+		},
+		{
+			"name": "UnmannedBeforeManned"
+		},
+		{
+			"name": "UnmannedBeforeMannedChallenge"
+		},
+		{
+			"name": "KSP-AVC"
+		},
+		{
+			"name": "SETI-BalanceMod"
+		},
+		{
+			"name": "SETI-ProbeParts"
+		},
+		{
+			"name": "NavUtilitiesContinued"
+		}
+	]
+}
